@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appearance_normal">Normal</string>
+    <string name="appearance_simple">Simple</string>
+    <string name="appearance_title">Apariencia</string>
+    <string name="at">en</string>
+    <string name="btn_done">Hecho</string>
+    <string name="command_understood">Orden recibida</string>
+    <string name="executing">Ejecutando..</string>
+    <string name="general_title">General</string>
+    <string name="give_command">Dar una orden</string>
+    <string name="last_updated">Última actualización:</string>
+    <string name="listening">Escuchando..</string>
+    <string name="location_hint">Escribe tu dirección o ciudad (por defecto, \'New York\')</string>
+    <string name="no_events_error">Error al obtener eventos del calendario</string>
+    <string name="no_events_today">No hay eventos para hoy</string>
+    <string name="no_permission_for_calendar">No verás tu último evento. Puedes cambiarlo en los ajustes del sistema de tu dispositivo</string>
+    <string name="no_permission_for_voice">Permisos para grabar audio denegados. Puedes cambiarlos en los ajustes del sistema de tu dispositivo</string>
+    <string name="old_config_found_snackbar">Se encontró una configuración existente.</string>
+    <string name="old_config_found_snackbar_back">Volver a ajustes</string>
+    <string name="other_title">Otros ajustes</string>
+    <string name="polling_hint">Actualizar cada (en minutos; por defecto, 30min)</string>
+    <string name="remember_config">Recordar ajustes (pulsa Atrás para restablecer)</string>
+    <string name="setup_title">Ajustes</string>
+    <string name="simple_greeting">¡Hola!\nSon las</string>
+    <string name="subreddit_hint">Elige un subreddit (por defecto, \'news\')</string>
+    <string name="temperature_celsius">Celsius</string>
+    <string name="temperature_fahrenheit">Fahrenheit</string>
+    <string name="temperature_title">Unidades de temperatura</string>
+    <string name="tomorrow">Mañana</string>
+    <string name="turn_on_voice">Activar control por voz (experimental)</string>
+    <string name="validating">Validando..</string>
+    <string name="voice_title">Comandos de voz</string>
+    <string name="weather_title">El tiempo</string>
+    <string name="date_on">de</string>
+</resources>
